@@ -1,10 +1,18 @@
 # 2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS
-
+## NAME: PRIYADHARSHINI M
+## REF.NO: 25017828
+##
 **AIM:**
 
 *To determine the current in circuit using mesh analysis both theoretically and practically for a given DC circuit.*
 
 **APPARATUS REQUIRED:**
+![Determination of current in circuit using mesh analysis _page-0001](https://github.com/user-attachments/assets/bf7bb603-09f1-424e-81e4-ea039623d03c)
+
+![Determination of current in circuit using mesh analysis _page-0002](https://github.com/user-attachments/assets/a02b9356-6f3c-4788-aee6-21f56f90b246)
+![Determination of current in circuit using mesh analysis _page-0003](https://github.com/user-attachments/assets/f1f23ed6-367d-485a-8ab3-b20007e3f271)
+
+![Determination of current in circuit using mesh analysis _page-0004](https://github.com/user-attachments/assets/a7e2c3cb-7b1b-4528-8cbf-7561361dc900)
 
 **SL.NO	APPARATUS	SPECIFICATION	QUANTITY**
 
